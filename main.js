@@ -235,3 +235,4 @@ console.log(chalk.cyanBright(`\n▣────────[ 𝙰𝚄𝚃𝙾�
 _quickTest()
 .then()
 .catch(console.error)
+
