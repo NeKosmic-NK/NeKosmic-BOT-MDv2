@@ -1,0 +1,164 @@
+require('./settings')
+const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
+const fs = require('fs')
+const util = require('util')
+const chalk = require('chalk')
+const { exec, spawn, execSync } = require("child_process")
+const axios = require('axios')
+const path = require('path')
+const fetch = require('node-fetch')
+const os = require('os')
+const maker = require('mumaker')
+const hx = require("hxz-api")
+const moment = require('moment-timezone')
+const { JSDOM } = require('jsdom')
+const speed = require('performance-now')
+const { performance } = require('perf_hooks')
+const { Primbon } = require('scrape-primbon')
+const primbon = new Primbon()
+const { smsg, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/myfunc')
+const xeonkey = require('xfarr-api')
+const cheerio = require ("cheerio")
+const { XeonBotIncTiktok } = require('./lib/tiktokbyxeon')
+let { msgFilter } = require('./lib/antispam')
+let { covid } = require('./lib/covid.js') 
+const { EmojiAPI } = require("emoji-api")
+const emoji = new EmojiAPI()
+const thiccysapi = require('textmaker-thiccy')
+const { XeonBotIncWiki } = require('./lib/xeonywiki.js')
+const textpro = require('./lib/textpro')
+const { mediafireDl } = require('./lib/mediafire.js')
+const { Gempa } = require("./lib/gempa.js")
+const { jadwaltv }= require('./lib/jadwaltv')
+const xeontod = require("tod-api")
+const { pinterest } = require("./lib/pinterest")
+const toHur = require('@develoka/angka-terbilang-js')
+const { hentai } = require('./lib/scraper2.js')
+const {
+if (antiToxic)
+if (bad.includes(messagesD)) {
+tos = ['Hey, cuida tu boca','Nunca te han enseñado a habla?','deja de ser toxico amigo 🤢','no sea toxico🤨']
+sin =  tos[Math.floor(Math.random() * (tos.length))]
+reply(sin)
+if (m.text) {
+bvl = `\`\`\`「 TOXICO DETECTADO 」\`\`\`\n\n esta usado mala palabra, pero eres admin, te salvarte, no te puedo eliminar`
+if (isAdmins) return reply(bvl)
+if (m.key.fromMe) return reply(bvl)
+if (isCreator) return reply(bvl)
+kice = m.sender
+await XeonBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
+XeonBotInc.sendMessage(from, {text:`\`\`\`「 TOXICO DETENTADO」\`\`\`\n\n@${kice.split("@")[0]} seda explusado rata por tu mala palabra 🤨`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})}
+break
+case 'grupos': 
+	   if (isBan) return reply(mess.ban)
+	if (isBanChat) return reply(mess.banChat)
+reply(`estos sos los grupos oficiales de bot
+https://chat.whatsapp.com/Byyrc8RJnUkJw6vvUgsbDF
+https://chat.whatsapp.com/CFSvSOGCnuL3vk4Js1DWI2 !
+bot princess kiara 
+https://chat.whatsapp.com/HjXlhWfX1ECG11Lp5gH3Q2
+ஓீ͜ঔৣ͡🍒𝑪𝑬̈𝑹𝑬𝒁𝑨̈.𝑩Ø𝑻🔥ঔৣ͡ஓ
+https://chat.whatsapp.com/DCJclB8oBAPIAoleUtNEaN
+ℂ𝔸𝕊𝕋𝕀ℕ𝔾 𝔻𝔼 𝕍𝕆ℤ (𝔹𝕆𝕋)
+https://chat.whatsapp.com/BMqdPDto6Uz5tFMMJVTrlO
+si quiere que tu grupo aparezca aca habla con el owner de bot`)
+break
+            default:
+                if (budy.startsWith('=>')) {
+                    if (!isCreator) return reply(mess.owner)
+                    function Return(sul) {
+                        sat = JSON.stringify(sul, null, 2)
+                        bang = util.format(sat)
+                            if (sat == undefined) {
+                                bang = util.format(sul)
+                            }
+                            reply(bang)
+                    }
+                    try {
+                        reply(util.format(eval(`(async () => { return ${budy.slice(3)} })()`)))
+                    } catch (e) {
+                        reply(String(e))
+                    }
+                }
+
+                if (budy.startsWith('>')) {
+                    if (!isCreator) return reply(mess.owner)
+                    try {
+                        let evaled = await eval(budy.slice(2))
+                        if (typeof evaled !== 'string') evaled = require('util').inspect(evaled)
+                        await reply(evaled)
+                    } catch (err) {
+                        await reply(String(err))
+                    }
+                }
+
+                if (budy.startsWith('$')) {
+                    if (!isCreator) return reply(mess.owner)
+                    exec(budy.slice(2), (err, stdout) => {
+                        if(err) return reply(err)
+                        if (stdout) return reply(stdout)
+                    })
+                }
+			
+		if (m.chat.endsWith('@s.whatsapp.net') && isCmd) {
+                    this.anonymous = this.anonymous ? this.anonymous : {}
+                    let room = Object.values(this.anonymous).find(room => [room.a, room.b].includes(m.sender) && room.state === 'CHATTING')
+                    if (room) {
+                        if (/^.*(next|leave|start)/.test(m.text)) return
+                        if (['.next', '.leave', '.stop', '.start', 'Cari Partner', 'Keluar', 'Lanjut', 'Stop'].includes(m.text)) return
+                        let other = [room.a, room.b].find(user => user !== m.sender)
+                        m.copyNForward(other, true, m.quoted && m.quoted.fromMe ? {
+                            contextInfo: {
+                                ...m.msg.contextInfo,
+                                forwardingScore: 0,
+                                isForwarded: true,
+                                participant: other
+                            }
+                        } : {})
+                    }
+                    return !0
+                }
+			//anti-tag
+const listTag = [`${global.ownertag}@s.whatsapp.net`]
+const partiNum = (m.mtype === 'extendedTextMessage') ? m.message.extendedTextMessage.contextInfo.participant : ''
+//anti-tag 2
+if (listTag.includes(partiNum)) {
+if (antitags === false) return
+if (!m.isGroup) return
+if (m.key.fromMe) return
+sendNye = fs.readFileSync('./media/theme/yourtag.webp')
+XeonBotInc.sendReadReceipt(m.chat, m.sender, [m.key.id])
+XeonBotInc.sendMessage(from, {sticker:sendNye, contextInfo:{forwardingScore: 800, isForwarded: true}}, {quoted:m})
+}
+//anti-tag 3
+if (budy.includes(`${global.ownertag}`)) {
+if (antitags === false) return
+if (!m.isGroup) return
+if (m.key.fromMe) return
+sendNye = fs.readFileSync('./media/theme/yourtag.webp')
+XeonBotInc.sendReadReceipt(m.chat, m.sender, [m.key.id])
+XeonBotInc.sendMessage(from, {sticker:sendNye, contextInfo:{forwardingScore: 800, isForwarded: true}}, {quoted:m})
+}
+		if (isCmd && budy.toLowerCase() != undefined) {
+		    if (m.chat.endsWith('broadcast')) return
+		    if (m.isBaileys) return
+		    let msgs = global.db.data.database
+		    if (!(budy.toLowerCase() in msgs)) return
+		    XeonBotInc.copyNForward(m.chat, msgs[budy.toLowerCase()], true)
+		}
+        }
+        
+
+    } catch (err) {
+        m.reply(util.format(err))
+    }
+}
+
+
+let file = require.resolve(__filename)
+fs.watchFile(file, () => {
+	fs.unwatchFile(file)
+	console.log(chalk.redBright(`Update ${__filename}`))
+	delete require.cache[file]
+	require(file)
+})
