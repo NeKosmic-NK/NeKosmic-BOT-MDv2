@@ -27,7 +27,7 @@
 </p>
   
  <p align="hihg">   
-<a href="https://vm.tiktok.com/ZMNmKcFYr/" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="https://vm.tiktok.com/ZMNmKcFYr/" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 -----
 
 ### `—◉ 💰 DONAR 💰`
