@@ -113,3 +113,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 [![NeKosmic](https://avatars.githubusercontent.com/u/104524366?v=4?raw=truesize=100)](https://github.com/BrunoSobrino/) 
 
 `NeKosmic-Bot-MDv2 _ By NeKosmic`
+
+  ### 🌟 AGRADECIMIENTOS
+ 
+[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
