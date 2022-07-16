@@ -7,24 +7,29 @@
 <img src="https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-BOT-MD/master/media2/readme.img.jpg" alt="GIF" width="400" height="420"/>
 </p>
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/34642467703" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50499698072" target="blank"><img src="https://img.shields.io/badge/ALBERTO_ACOSTA_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986460945" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
+<a href="http://wa.me/34623442554" target="blank"><img src="https://img.shields.io/badge/NeKosmic_NK-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+> NO BOT
 
-<a href="https://chat.whatsapp.com/G18HUF7pntwFgkVoMbhvs3" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
+<p align="center">
+<a href="https://github.com/NeKosmic-NK"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
+</p>
+  
+[![blog](https://img.shields.io/badge/Grupo-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58)  <a href="https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+
+[![blog](https://img.shields.io/badge/X-Acount-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc) <a href="https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+-----
 
 ### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/NeKosmicOFC)
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NeKosmic-NK/NeKosmic-Bot-MDv2)
 ```bash
 [❗] FALLAS POR EL MOMENTO EN HEROKU, SE TRABAJA EN SOLUCIONAR ERRORES.
 AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
@@ -34,10 +39,6 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 ```
-
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -51,8 +52,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
+> git clone https://github.com/NeKosmic-NK/NeKosmic-Bot-MDv2
+> cd NeKosmic-Bot-MDv2
 > yarn install 
 > npm install
 > npm update
@@ -63,7 +64,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd NeKosmic-Bot-MDv2
 > npm start
 ```
 
@@ -71,13 +72,13 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd NeKosmic-Bot-MDv2
 > rm -rf session.data.json
 > npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
 <p>> Pagina Oficial:
 <a href="https://boxmineworld.com">https://boxmineworld.com</a>
 <p>> Dashboard:
@@ -97,15 +98,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
 - ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+- NEKOSMIC NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 ```
 
-## `COLABORADORES DEL BOT` 
-<a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="200" height="200" alt="unptoadrih15"/></a>
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="200" height="200" alt="ALBERTO9883"/></a>
-<a href="https://github.com/ferhacks"><img src="https://github.com/ferhacks.png" width="200" height="200" alt="ferhacks"/></a>
+
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
+[![NeKosmic](https://avatars.githubusercontent.com/u/104524366?v=4?raw=truesize=100)](https://github.com/BrunoSobrino/) 
 
-`TheMystic-Bot-MD _ By Bruno Sobrino`
+`NeKosmic-Bot-MDv2 _ By NeKosmic`
