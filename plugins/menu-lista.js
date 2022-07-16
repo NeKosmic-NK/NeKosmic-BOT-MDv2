@@ -31,7 +31,7 @@ title: `𝑳𝒊𝒔𝒕𝒂 𝒅𝒆𝒔𝒑𝒍𝒆𝒈𝒂𝒃𝒍𝒆`,
 rows: [
       {title: "🙂 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 🙃", description: null, rowId: `${usedPrefix}creadora`},
       {title: "🚀 𝑽𝒆𝒍𝒐𝒄𝒊𝒅𝒂𝒅 | 𝒔𝒆𝒆𝒅 🚀", description: null, rowId: `${usedPrefix}ping`},
-      {title: "🎁 𝑴𝒆𝒏𝒖 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒐 🎁", description: null, rowId: `${usedPrefix}allmenu`},
+      {title: "🎁 𝑴𝒆𝒏𝒖 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒐 🎁", description: null, rowId: `${usedPrefix}menu`},
       {title: "🌟 𝑰𝒏𝒇𝒐𝒎𝒂𝒄𝒊𝒐𝒏 🌟", description: null, rowId: `${usedPrefix}infomenu`},
       {title: "🎡 𝑱𝒖𝒆𝒈𝒐𝒔 𝒅𝒊𝒏𝒂𝒎𝒊𝒄𝒐𝒔 🎡", description: null, rowId: `${usedPrefix}juegosmenu`},
       {title: "🔊 𝑴𝒆𝒏𝒖 𝒅𝒆 𝒂𝒖𝒅𝒊𝒐𝒔 🔊", description: null, rowId: `${usedPrefix}menuaudio`},
