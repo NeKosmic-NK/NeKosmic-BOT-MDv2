@@ -6,7 +6,7 @@ import { join } from 'path'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) => {
 try {
 let vn = './media/menu.mp3'
-let pp = './Menu2.jpg'
+let pp = './media2/2.jpeg'
 let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
 let { exp, limit, level, role } = global.db.data.users[m.sender]
 let { min, xp, max } = xpRange(level, global.multiplier)
@@ -63,7 +63,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-*ミ💖 𝙷𝙾𝙻𝙰 ✨${name}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 💖彡*
+*ミ💖 𝙷𝙾𝙻𝙰 ✨${name}✨, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌- 𝙱𝙾𝚃 💖彡*
 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
@@ -82,7 +82,7 @@ let str = `
 
 *<𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>*
 
-° ඬ⃟👽 _${usedPrefix}join *<enlace / link / url>*_
+° ඬ⃟👑 _${usedPrefix}join *<enlace / link / url>*_
 
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
 
@@ -408,28 +408,28 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 
 *<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>*
 
-° ඬ⃟👽 _${usedPrefix}sticker *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}sticker *<enlace / link / url>*_
-° ඬ⃟👽 _${usedPrefix}s *<responder a imagen o video>*_
-° ඬ⃟👽 _${usedPrefix}s *<enlace / link / url>*_
-° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
-° ඬ⃟👽 _${usedPrefix}scircle *<responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}sremovebg *<responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}semoji *<tipo> <emoji>*_
-° ඬ⃟👽 _${usedPrefix}attp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}attp2 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp2 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp3 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp4 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp5 *<texto>*_
-° ඬ⃟👽 _${usedPrefix}pat *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}slap *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}dado_
-° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
-° ඬ⃟👽 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
+° ඬ⃟🥶 _${usedPrefix}sticker *<responder a imagen o video>*_
+° ඬ⃟🥶 _${usedPrefix}sticker *<enlace / link / url>*_
+° ඬ⃟🥶 _${usedPrefix}s *<responder a imagen o video>*_
+° ඬ⃟🥶 _${usedPrefix}s *<enlace / link / url>*_
+° ඬ⃟🥶 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
+° ඬ⃟🥶 _${usedPrefix}scircle *<responder a imagen>*_
+° ඬ⃟🥶 _${usedPrefix}sremovebg *<responder a imagen>*_
+° ඬ⃟🥶 _${usedPrefix}semoji *<tipo> <emoji>*_
+° ඬ⃟🥶 _${usedPrefix}attp *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}attp2 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp2 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp3 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp4 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}ttp5 *<texto>*_
+° ඬ⃟🥶 _${usedPrefix}pat *<@tag>*_
+° ඬ⃟🥶 _${usedPrefix}slap *<@tag>*_
+° ඬ⃟🥶 _${usedPrefix}kiss *<@tag>*_
+° ඬ⃟🥶 _${usedPrefix}dado_
+° ඬ⃟🥶 _${usedPrefix}wm *<packname> <author>*_
+° ඬ⃟🥶 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
+° ඬ⃟🥶 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
 
 *<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 
@@ -459,10 +459,10 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
-conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/TheShadowBrokers133', '𝙿𝙰𝚈𝙿𝙰𝙻', 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', [
+conn.sendHydrated2(m.chat, str, wm, pp, 'https://vm.tiktok.com/ZMNmV9Fjq/', '✨𝚃𝚒𝚔𝚃𝚘𝚔✨', 'https://www.instagram.com/invites/contact/?i=1cxn7npxzoher&utm_content=ohvhscn', '👑𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼👑', [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
 ['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
-['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
+['🐾 𝙼𝙴𝙽𝚄 𝚂𝙸𝙼𝙿𝙻𝙴 🐾', '/menusimple']
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
 //type: 'audioMessage', 
@@ -471,7 +471,7 @@ conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/TheShadowBrokers1
 conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*', m)
 throw e
 }}
-handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos)$/i
+handler.command = /^(menu|menú|memu|memú|help|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos)$/i
 handler.exp = 50
 handler.fail = null
 export default handler
