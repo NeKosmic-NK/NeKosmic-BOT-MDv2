@@ -67,7 +67,7 @@ let imagen1 = fs.readFileSync('./Menu2.jpg')
 let imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
 let imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 let texto1 = `╭═─═─═─═─═─═╮
-║   𝚃𝙷𝙴 𝙼𝚈𝚂𝚃𝙸𝙲 - 𝙱𝙾𝚃 - 𝙼𝙳
+║   𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃 - 𝙼𝙳
 ║╰═─═─═─═─══╯
 ┠╮
 ║- 𝙷𝙾𝙻𝙰 @${m.sender.split("@")[0]}
@@ -321,12 +321,12 @@ let texto1 = `╭═─═─═─═─═─═╮
 240╠ ${usedPrefix}xvideosdl
 ╭─╯
 ╠╯
-║ㅤㅤㅤ A____A
-║ㅤㅤㅤ |・ㅅ・|
-║ㅤㅤㅤ |っ　ｃ|
-║ㅤㅤㅤ |　　　|
-║ㅤㅤㅤ |　　　|
-║ㅤㅤㅤ U￣￣U
+║ㅤ   A____A
+║ㅤㅤ |・ㅅ・|
+║ㅤ  |っ　ｃ|
+║ㅤㅤ |　　　|
+║ㅤ  |　　　|
+║ㅤㅤ U￣￣U
 ╠═─═─ • ⏄ • ─═─═╮
 ╰═─═─ • ⏄ • ─═─═╯`
 const fake = { quoted: {
@@ -356,23 +356,23 @@ jpegThumbnail: imagen1,
 caption: texto1,
 fileLength: "99999999999999",
 mentions:[m.sender, owner],
-footer: `𝔹𝕪 𝔹𝕣𝕦𝕟𝕠 𝕊𝕠𝕓𝕣𝕚𝕟𝕠`,
+footer: `𝙱𝚢: 𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 » 𝙱𝙾𝚃`,
 buttons: buttons,
 headerType: 4,   
 contextInfo: {
 "mentionedJid": [m.sender, owner],
 "externalAdReply": {
 "showAdAttribution": false,
-"title": `𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙳𝙴 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾𝙽`,
+"title": `𝙼𝚒𝚜 𝚁𝚎𝚍𝚎𝚜`,
 "mediaType": 2, 
 "previewType": "VIDEO",
 "thumbnail": imagen3,
-"mediaUrl": 'https://youtu.be/eC9TfKICpcY',
+"mediaUrl": 'http://atom.bio/nekosmic-nk',
 "sourceUrl": 'https://www.pornhub.com' }}} 
 conn.sendMessage(m.chat, buttonMessage, fake)}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(menucompleto|menu3|menú3|memu3|memú3|help3|info3|comandos3|allmenu3|ayuda3|commands3|commandos3)$/i
+handler.command = /^(menucompleto|menu3|menú3|memu3|memú3|help3|comandos3|allmenu3|ayuda3|commands3|commandos3)$/i
 export default handler
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
