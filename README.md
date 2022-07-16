@@ -18,8 +18,8 @@
 [![blog](https://img.shields.io/badge/Grupo-Soporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58)  <a href="https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
-[![blog](https://img.shields.io/badge/X-Acount-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc) <a href="https://chat.whatsapp.com/EyVSDmxcdguBJDDKQEVplc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+ <p align="hihg">   
+<a href="https://t.me/+jDafTNrAOmQ5MGEx" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 <p align="hihg">   
 <a href="https://instagram.com/nekosmic.nk" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
