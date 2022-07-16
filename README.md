@@ -19,7 +19,7 @@
 )](https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58)  <a href="https://chat.whatsapp.com/EOJQxQRVlIR0Wd4HSQZl58"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
  <p align="hihg">   
-<a href="https://t.me/+jDafTNrAOmQ5MGEx" target="_blue"> <img src="https://img.shields.io/badge/-Telegram-%23E4405F?style=for-the-badge&logo=telegram&logoColor=blue" target="_blue"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="https://t.me/+jDafTNrAOmQ5MGEx" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-%23E4405F?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 <p align="hihg">   
 <a href="https://instagram.com/nekosmic.nk" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=yellow" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
