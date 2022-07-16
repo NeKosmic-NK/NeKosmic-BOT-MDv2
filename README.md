@@ -1,4 +1,4 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `👑𝙽𝚎𝙺𝚘𝚜𝚖𝚒𝚌 - 𝙱𝙾𝚃👑`
 <p align="center"> 
   <a href="https://github.com/NeKosmic-NK"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=NeKosmic-BOT-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
@@ -78,7 +78,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/NeKosmic-NK/NeKosmic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
 <p>> Pagina Oficial:
 <a href="https://boxmineworld.com">https://boxmineworld.com</a>
 <p>> Dashboard:
